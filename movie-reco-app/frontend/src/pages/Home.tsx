@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react';
-import axios from 'axios';
+import { useState, useEffect } from 'react'
+import api from "../api/axios";
 import { Movie, NewsItem } from '../types';
 import MovieCard from '../components/MovieCard';
 import { useWatchlist } from '../hooks/useWatchlist';
@@ -14,8 +14,8 @@ const Home = () => {
         const fetchData = async () => {
             try {
                 const [moviesRes, newsRes] = await Promise.all([
-                    axios.get('http://localhost:5000/api/movies'),
-                    axios.get('http://localhost:5000/api/news')
+                    api.get('/api/movies'),
+                    api.get('/api/news')
                 ]);
                 setTrending(moviesRes.data.slice(0, 8).sort((a: Movie, b: Movie) => b.popularity - a.popularity));
                 setNews(newsRes.data.slice(0, 4));

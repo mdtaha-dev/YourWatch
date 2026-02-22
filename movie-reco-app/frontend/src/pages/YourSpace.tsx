@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import axios from 'axios';
+import api from "../api/axios";
 import { Movie } from '../types';
 import MovieCard from '../components/MovieCard';
 import TagChip from '../components/TagChip';
@@ -33,7 +33,7 @@ const YourSpace = () => {
     const fetchRecommendations = async (tags: string[]) => {
         setLoading(true);
         try {
-            const res = await axios.get('http://localhost:5000/api/movies');
+            const res = await api.get('/api/movies');
             const allMovies = res.data;
 
             // Sort by number of matching tags

@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react';
-import axios from 'axios';
+import api from "../api/axios";
 import { Movie } from '../types';
 import MovieCard from '../components/MovieCard';
 import FilterBar from '../components/FilterBar';
@@ -22,7 +22,7 @@ const Movies = () => {
             if (language) params.append('language', language);
             if (minRating > 0) params.append('minRating', minRating.toString());
 
-            const res = await axios.get(`http://localhost:5000/api/movies?${params.toString()}`);
+            const res = await api.get(`/api/movies?${params.toString()}`);
             setMovies(res.data);
         } catch (err) {
             console.error(err);

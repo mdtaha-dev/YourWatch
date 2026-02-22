@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import axios from 'axios';
+import api from "../api/axios";
 import { Movie } from '../types';
 import TrailerPlayer from '../components/TrailerPlayer';
 import TagChip from '../components/TagChip';
@@ -20,8 +20,8 @@ const MovieDetails = () => {
             setLoading(true);
             try {
                 const [movieRes, allMoviesRes] = await Promise.all([
-                    axios.get(`http://localhost:5000/api/movies/${id}`),
-                    axios.get('http://localhost:5000/api/movies')
+                    api.get(`/api/movies/${id}`),
+                    api.get("/api/movies")
                 ]);
 
                 const currentMovie = movieRes.data;
@@ -97,8 +97,8 @@ const MovieDetails = () => {
                         <button
                             onClick={() => toggleWatchlist(movie)}
                             className={`mt-6 px-8 py-3 rounded-xl font-bold transition-all flex items-center gap-2 ${isInWatchlist(movie.id)
-                                    ? 'bg-secondary text-white hover:bg-gray-700'
-                                    : 'bg-primary text-white hover:bg-red-700'
+                                ? 'bg-secondary text-white hover:bg-gray-700'
+                                : 'bg-primary text-white hover:bg-red-700'
                                 }`}
                         >
                             {isInWatchlist(movie.id) ? 'Remove from Watchlist' : 'Add to Watchlist'}
