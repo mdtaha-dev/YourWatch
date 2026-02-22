@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/movie-reco-app/backend/venv/Scripts/python.exe",
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}/movie-reco-app/backend"
+    ],
+    "python.languageServer": "Pylance",
+    "python.analysis.diagnosticMode": "workspace",
+    "css.lint.unknownAtRules": "ignore"
+}

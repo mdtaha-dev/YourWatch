@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "title": "New Sci-Fi Epic 'Space Horizon' Announced",
+        "date": "2026-02-20",
+        "tags": [
+            "Sci-Fi",
+            "Action"
+        ],
+        "summary": "Director X reveals plans for a massive interstellar adventure spanning three galaxies."
+    },
+    {
+        "id": 2,
+        "title": "Horror Masterpiece Breaks Box Office Records",
+        "date": "2026-02-18",
+        "tags": [
+            "Horror",
+            "Dark"
+        ],
+        "summary": "The latest thriller from Studio Y has become the highest-grossing R-rated movie of the year."
+    },
+    {
+        "id": 3,
+        "title": "K-Drama Craze Sweeps the Globe",
+        "date": "2026-02-15",
+        "tags": [
+            "Romance",
+            "Emotional"
+        ],
+        "summary": "Streaming platforms report a 300% increase in viewership for Korean romantic comedies."
+    },
+    {
+        "id": 4,
+        "title": "Bollywood Legend Returns to the Big Screen",
+        "date": "2026-02-12",
+        "tags": [
+            "Action",
+            "Feel-good"
+        ],
+        "summary": "After a 5-year hiatus, Superstar Z stars in a high-octane family drama."
+    },
+    {
+        "id": 5,
+        "title": "Why Mind-Bending Thrillers are Trending",
+        "date": "2026-02-10",
+        "tags": [
+            "Mind-bending",
+            "Thriller"
+        ],
+        "summary": "Psychologists explain why audiences are increasingly drawn to complex, non-linear narratives."
+    },
+    {
+        "id": 6,
+        "title": "Top 10 Feel-Good Movies to Watch This Weekend",
+        "date": "2026-02-08",
+        "tags": [
+            "Feel-good",
+            "Comedy"
+        ],
+        "summary": "A curated list of films guaranteed to lift your spirits and warm your heart."
+    },
+    {
+        "id": 7,
+        "title": "The Rise of Fast-Paced Action Cinema",
+        "date": "2026-02-05",
+        "tags": [
+            "Action",
+            "Fast-paced"
+        ],
+        "summary": "How modern editing techniques are changing the way we experience cinematic intensity."
+    },
+    {
+        "id": 8,
+        "title": "Sci-Fi and Philosophy: A deep dive",
+        "date": "2026-02-02",
+        "tags": [
+            "Sci-Fi",
+            "Mind-bending"
+        ],
+        "summary": "Exploring the existential questions raised by this year's biggest science fiction hits."
+    },
+    {
+        "id": 9,
+        "title": "New Thriller 'The Silent Room' Gets rave reviews",
+        "date": "2026-01-30",
+        "tags": [
+            "Thriller",
+            "Dark"
+        ],
+        "summary": "Critics are calling it the most unsettling experience of the decade."
+    },
+    {
+        "id": 10,
+        "title": "Romance in the Digital Age: Local Favorites",
+        "date": "2026-01-25",
+        "tags": [
+            "Romance",
+            "Feel-good"
+        ],
+        "summary": "How local filmmakers are redefining love stories for a hyper-connected generation."
+    }
+]

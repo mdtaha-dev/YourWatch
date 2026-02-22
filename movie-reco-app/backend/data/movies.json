@@ -1,0 +1,309 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "rating": 8.8,
+    "language": "English",
+    "poster": "https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/YoHD9XEInc0",
+    "tags": [
+      "Sci-Fi",
+      "Thriller",
+      "Mind-bending",
+      "Fast-paced"
+    ],
+    "popularity": 95
+  },
+  {
+    "id": 2,
+    "title": "Parasite",
+    "year": 2019,
+    "rating": 8.6,
+    "language": "Korean",
+    "poster": "https://assets.mubicdn.net/images/notebook/post_images/29832/images-w1400.jpg?1579570864",
+    "trailer": "https://www.youtube.com/embed/5xH0HfJHsaY",
+    "tags": [
+      "Thriller",
+      "Comedy",
+      "Dark",
+      "Emotional"
+    ],
+    "popularity": 92
+  },
+  {
+    "id": 3,
+    "title": "The Conjuring",
+    "year": 2013,
+    "rating": 7.5,
+    "language": "English",
+    "poster": "https://cdn.cinematerial.com/p/297x/4pemr7e6/the-conjuring-2-movie-poster-md.jpg?v=1465142375",
+    "trailer": "https://www.youtube.com/embed/k10ETZ41q5o",
+    "tags": [
+      "Horror",
+      "Thriller",
+      "Dark"
+    ],
+    "popularity": 88
+  },
+  {
+    "id": 4,
+    "title": "Dangal",
+    "year": 2016,
+    "rating": 8.4,
+    "language": "Hindi",
+    "poster": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/x_7YlGv9u1g",
+    "tags": [
+      "Action",
+      "Emotional",
+      "Feel-good"
+    ],
+    "popularity": 90
+  },
+  {
+    "id": 5,
+    "title": "About Time",
+    "year": 2013,
+    "rating": 7.8,
+    "language": "English",
+    "poster": "https://images.unsplash.com/photo-1501139083538-0139583c060f?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/7OIFdWk83no",
+    "tags": [
+      "Romance",
+      "Sci-Fi",
+      "Emotional",
+      "Feel-good"
+    ],
+    "popularity": 85
+  },
+  {
+    "id": 6,
+    "title": "John Wick",
+    "year": 2014,
+    "rating": 7.4,
+    "language": "English",
+    "poster": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/c0Aizo_mE88",
+    "tags": [
+      "Action",
+      "Thriller",
+      "Fast-paced"
+    ],
+    "popularity": 93
+  },
+  {
+    "id": 7,
+    "title": "Train to Busan",
+    "year": 2016,
+    "rating": 7.6,
+    "language": "Korean",
+    "poster": "https://media.themoviedb.org/t/p/w440_and_h660_face/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg",
+    "trailer": "https://www.youtube.com/embed/1ovgxN2VWNc?si=_X8fvHTjq2rcMjBa",
+    "tags": [
+      "Horror",
+      "Action",
+      "Emotional",
+      "Fast-paced"
+    ],
+    "popularity": 89
+  },
+  {
+    "id": 8,
+    "title": "Interstellar",
+    "year": 2014,
+    "rating": 8.6,
+    "language": "English",
+    "poster": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
+    "tags": [
+      "Sci-Fi",
+      "Mind-bending",
+      "Emotional"
+    ],
+    "popularity": 96
+  },
+  {
+    "id": 9,
+    "title": "Andhadhun",
+    "year": 2018,
+    "rating": 8.2,
+    "language": "Hindi",
+    "poster": "https://good-hope.in/cdn/shop/files/107_89c0704d-8914-4ef3-bf94-38cdd412e7bf.webp?v=1738757540&width=990",
+    "trailer": "https://www.youtube.com/embed/2iVYI99VGaw",
+    "tags": [
+      "Thriller",
+      "Comedy",
+      "Dark",
+      "Mind-bending"
+    ],
+    "popularity": 87
+  },
+  {
+    "id": 10,
+    "title": "The Grand Budapest Hotel",
+    "year": 2014,
+    "rating": 8.1,
+    "language": "English",
+    "poster": "https://images.unsplash.com/photo-1566073771259-6a8506099945?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/1Fg5iWmQjwk",
+    "tags": [
+      "Comedy",
+      "Feel-good"
+    ],
+    "popularity": 84
+  },
+  {
+    "id": 11,
+    "title": "Mad Max: Fury Road",
+    "year": 2015,
+    "rating": 8.1,
+    "language": "English",
+    "poster": "https://images.unsplash.com/photo-1506466010722-395aa2bef877?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/hEJnMQG9ev8",
+    "tags": [
+      "Action",
+      "Sci-Fi",
+      "Fast-paced"
+    ],
+    "popularity": 94
+  },
+  {
+    "id": 12,
+    "title": "Oldboy",
+    "year": 2003,
+    "rating": 8.4,
+    "language": "Korean",
+    "poster": "https://images.unsplash.com/photo-1511447333015-45b65e60f6d5?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/2HkjwJqmkNg",
+    "tags": [
+      "Thriller",
+      "Action",
+      "Dark",
+      "Mind-bending"
+    ],
+    "popularity": 86
+  },
+  {
+    "id": 13,
+    "title": "Lagaan",
+    "year": 2001,
+    "rating": 8.1,
+    "language": "Hindi",
+    "poster": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/N6vO3i4oNis",
+    "tags": [
+      "Action",
+      "Emotional",
+      "Feel-good"
+    ],
+    "popularity": 85
+  },
+  {
+    "id": 14,
+    "title": "The Matrix",
+    "year": 1999,
+    "rating": 8.7,
+    "language": "English",
+    "poster": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/m8e-FF8MsqU",
+    "tags": [
+      "Sci-Fi",
+      "Action",
+      "Mind-bending"
+    ],
+    "popularity": 95
+  },
+  {
+    "id": 15,
+    "title": "Shutter Island",
+    "year": 2010,
+    "rating": 8.2,
+    "language": "English",
+    "poster": "https://dessineart.com/cdn/shop/products/Movie-Posters-Black-Frame-Shutter-Island-Old-Movie-Posters_720x.jpg?v=1642619806",
+    "trailer": "https://www.youtube.com/embed/v8yrZSkKxTA?si=j3do0aqOCk7N5cL0",
+    "tags": [
+      "Thriller",
+      "Mind-bending",
+      "Dark"
+    ],
+    "popularity": 91
+  },
+  {
+    "id": 16,
+    "title": "3 Idiots",
+    "year": 2009,
+    "rating": 8.4,
+    "language": "Hindi",
+    "poster": "https://cdn.cinematerial.com/p/297x/1m21vesr/three-idiots-indian-movie-poster-md.jpg?v=1456303678",
+    "trailer": "https://www.youtube.com/embed/K0eDlFX9GMc?si=yk6wEENJrx2XX5Ai",
+    "tags": [
+      "Comedy",
+      "Emotional",
+      "Feel-good"
+    ],
+    "popularity": 89
+  },
+  {
+    "id": 17,
+    "title": "Minari",
+    "year": 2020,
+    "rating": 7.5,
+    "language": "Korean",
+    "poster": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/ezMSAzW4BCc",
+    "tags": [
+      "Romance",
+      "Emotional",
+      "Feel-good"
+    ],
+    "popularity": 82
+  },
+  {
+    "id": 18,
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": 2004,
+    "rating": 8.3,
+    "language": "English",
+    "poster": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/yE-f1alkq9I",
+    "tags": [
+      "Romance",
+      "Sci-Fi",
+      "Emotional",
+      "Mind-bending"
+    ],
+    "popularity": 88
+  },
+  {
+    "id": 19,
+    "title": "Gully Boy",
+    "year": 2019,
+    "rating": 7.9,
+    "language": "Hindi",
+    "poster": "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/JfbxcD6biOk",
+    "tags": [
+      "Action",
+      "Emotional",
+      "Fast-paced"
+    ],
+    "popularity": 84
+  },
+  {
+    "id": 20,
+    "title": "The Wailing",
+    "year": 2016,
+    "rating": 7.4,
+    "language": "Korean",
+    "poster": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=300&h=450&auto=format&fit=crop",
+    "trailer": "https://www.youtube.com/embed/436yid_uXHg",
+    "tags": [
+      "Horror",
+      "Thriller",
+      "Dark",
+      "Mind-bending"
+    ],
+    "popularity": 83
+  }
+]
